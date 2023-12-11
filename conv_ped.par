@@ -1,0 +1,10 @@
+DIR:  /home/jingkun_ran/result/admixture
+SSS:  mabuco_admix
+genotypename:  /public/adna/jingkun_ran/data/UPA34_a.geno
+snpname:       /public/adna/jingkun_ran/data/UPA34_a.snp
+indivname:     /public/adna/jingkun_ran/data/UPA34_a.ind
+outputformat:    PED
+genotypeoutname:   /home/jingkun_ran/result/admixture/mabuco_admix.ped
+snpoutname:        /home/jingkun_ran/result/admixture/mabuco_admix.pedsnp
+indivoutname:      /home/jingkun_ran/result/admixture/mabuco_admix.pedind
+poplistname:   /home/jingkun_ran/parfile/listsubset0613.txt

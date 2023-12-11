@@ -1,0 +1,9 @@
+genotypename:	subset_zongri1125.geno
+snpname:        subset_zongri1125.snp
+indivname:      subset_zongri1125.ind
+evecoutname:    zongri_pca.evec
+evaloutname:     zongri_pca.eval			
+poplistname:     /home/jingkun_ran/parfile/list9.prepop
+numoutlieriter: 4
+shrinkmode:   YES
+lsqproject:  YES 
